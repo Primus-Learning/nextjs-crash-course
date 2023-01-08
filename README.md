@@ -1,4 +1,4 @@
-This is are the starter files for the [Next.js](https://nextjs.org/) crash course.
+This repository contains the starter files for the Primus Learning [Next.js](https://nextjs.org/) crash course.
 
 ## Getting Started
 
