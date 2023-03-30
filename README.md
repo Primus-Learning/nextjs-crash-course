@@ -50,14 +50,15 @@ After cloning the repository, navigate to the project directory and install the 
 
 ### Environment Variables
 
-To run the project, you'll need to set up the following environment variables in a `.env` file:
+To run the project, you'll need to set up the following environment variables in an `.env` file:
 
 
-`RapidAPIKey=<your_rapidapi_key>`
-`RapidAPIHost=<your_rapidapi_host>`
-`DATABASE_URL=<your_database_url>`
-`GITHUB_ID=<your_github_id>`
-`GITHUB_SECRET=<your_github_secret>`
+`RapidAPIKey=<your_rapidapi_key>` <br>
+`RapidAPIHost=<your_rapidapi_host>` <br>
+`DATABASE_URL=<your_database_url>` <br>
+`GITHUB_ID=<your_github_id>` <br>
+`GITHUB_SECRET=<your_github_secret>` <br>
+`NEXTAUTH_SECRET=<your_nextauth_secret>`
 
 ### Starting the Development Server
 
