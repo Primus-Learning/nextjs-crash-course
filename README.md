@@ -1,8 +1,10 @@
 Hello 👋🏼,
 
-this repository contains both the starter files and the final code necessary for this course's project, ReelRanger.
+this repository contains both the starter files and the final code necessary for this course's project, **ReelRanger**.
 
-ReelRanger allow users to sign in and search for their favorite movies, view basic information about them, and most importantly, add them to their watchlist.
+![ReelRanger Demo](https://res.cloudinary.com/uglymolluska/image/upload/v1680144208/reelranger_demo_vbekq1.gif)
+
+**ReelRanger** allow users to sign in and search for their favorite movies, view basic information about them, and most importantly, add them to their watchlist.
 
 We'll be using a number of tools and technologies to build this app, including NextAuth for authentication, Supabase to host the Postgres database, Prisma as an ORM for the database, Mantine UI for the user interface, RapidAPI to retrieve movie data, and SWR for client-side fetching.
 
